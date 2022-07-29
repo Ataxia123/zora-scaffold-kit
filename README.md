@@ -1,3 +1,31 @@
+# Metabolism Hackathon Repo
+
+
+Trying something a little wild: The goal here is to create a starter kit in 🏗 scaffold-eth over the _next couple days_. It will have to be a fast a raw build. 
+
+But the goal is to create something that any curator can fork. It should allow them to easily curate certain items that are on-sale on Zora, let them display them, and let them earn the finders fee. @maxbochman is here from Zora to help and plenty of BuidlGuidl members can support. Are you the builder to make this happen, anon? (Post updates here with progress!)
+
+Here’s an app Tranqui built a while back that somewhat serves this purpose https://findersfeefinder.xyz (repo https://github.com/0xTranqui/Finders-Fee-Finder) 
+
+Here’s a link to a full zora starter kit Tranqui released yesterday that provides bunch of example implementations of the whole zora toolkit. Of most interest to this project is prob the protocol page that provides every contract interaction as its own component so is super easy to fork (app: https://zora-starter-kit.vercel.app/protocol + repo: https://github.com/0xTranqui/zora-starter-kit)
+
+seeing if we can’t figure out something cool + useable ahead of a hackathon we will be hosting starting August 4th — ik it’s not a lot of time so had to come to where the pros live
+
+All the docs live here https://docs.zora.co
+
+If u want to play around with our api (free to use dont need a key for under 30 requests/min) heres a nice GUI for it https://playground.api.zora.co/
+
+currently our indexer is only watching the v3 asks module (buy now functionality), so unfortunately you wont be able to surface finders fee listed on the Offers + Auctions modules but v3 asks is the one with the most usage atm so still a good selection of content to work with if u want to play around with our api (free to use dont need a key for under 30 requests/min) heres a nice GUI for it 
+
+https://playground.api.zora.co/
+
+
+> A tutorial on turning the starter kit into a marketplace + minting interface:
+
+https://twitter.com/0xtranqui/status/1552054407516372992?s=21&t=judiaSnHYX54XEtF56ydng
+
+
+
 # 🏗 Scaffold-ETH
 
 > everything you need to build on Ethereum! 🚀
